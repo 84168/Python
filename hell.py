@@ -18,4 +18,4 @@ elif(marks < 90 and marks >=80):
 elif(marks < 80 and marks >=70):
     print("C")
 elif(marks < 70):
-    print("D")
+    print("D")  
