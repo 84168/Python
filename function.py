@@ -42,10 +42,3 @@
 
 # print(ans , end = "\n")
 
-def OE(a):
-    if(a % 2 == 0):
-        return "EVEN"
-    else:
-        return "ODD"
-
-print(OE(5))
